@@ -7,5 +7,5 @@ target
 .snfoundry_cache
 .DS_Store
 
-Scarb.toml
-Scarb.lock
+#Scarb.toml
+#Scarb.lock
